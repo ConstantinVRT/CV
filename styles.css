@@ -294,14 +294,14 @@ filter: brightness(.9);
     flex-direction: column;
 
 }
- /*Footer text*/
-   .footer {
-    text-align: center;
-    font-size: 0.7em;
-    padding: 10px 20px;
-   }
+    
 }
-
+/*Footer general styles*/
+.footer {
+    text-align: center; /* Centrat pe mobil și PC */
+    font-size: 16px; /* Dimensiune font normal pe PC */
+    padding: 10px 20px;
+}
 
 
 @media (max-width: 600px)
@@ -362,6 +362,7 @@ filter: brightness(.9);
    }
     
 }
+
 
 
 
