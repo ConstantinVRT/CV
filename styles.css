@@ -270,7 +270,7 @@ filter: brightness(.9);
 }
 
 @media (max-width: 740px)
-{           /* SECTION 1: Hero */
+{           /* SECTIUNEA 1: Hero */
     .hero-section {
         flex-direction: column-reverse;
     }
@@ -278,7 +278,7 @@ filter: brightness(.9);
     .hero-section .headshot img {
         width: 300px;
     }
-/* SECTION 3: Testimony */
+/* SECTIUNEA A TREIA: Testimony */
 
 .testimony-section {
     text-align: center;
@@ -288,11 +288,17 @@ filter: brightness(.9);
 
 }
 
-/*Section 4: Contact*/
+/*SECTIUNEA A PATRA: Contact*/
 .contact-section .group{
     flex-direction: column;
 
 }
+/*Text FOOTER PC */
+    .footer {
+        font-size: 16px;        /* font mai mare pe PC */
+        text-align: center;     /* text centrat pe PC */
+        padding: 20px 40px;     /* padding mai mare pe PC */
+    }
 }
 
 
@@ -355,6 +361,7 @@ filter: brightness(.9);
    
     
 }
+
 
 
 
