@@ -298,8 +298,6 @@ filter: brightness(.9);
 
 
 
-
-
 @media (max-width: 600px)
 {/* NAVBAR*/
     nav{
@@ -349,5 +347,14 @@ filter: brightness(.9);
     .contact-section {
         padding:0 20px;
     }
+
+    /*Footer text*/
+   .footer {
+    text-align: center; /* text centrat pe mobil */
+    font-size: 0.6em;   /* font mai mic pe mobil */
+    padding: 5px 10px;
+   }
+    
 }
+
 
