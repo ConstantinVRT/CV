@@ -294,10 +294,14 @@ filter: brightness(.9);
     flex-direction: column;
 
 }
-    
-}
 /*Footer general styles*/
-
+    .footer {
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    background-color: blue;
+}
+)
 
 
 @media (max-width: 600px)
@@ -358,6 +362,7 @@ filter: brightness(.9);
    }
     
 }
+
 
 
 
