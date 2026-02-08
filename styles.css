@@ -294,6 +294,12 @@ filter: brightness(.9);
     flex-direction: column;
 
 }
+ /*Footer text*/
+   .footer {
+    text-align: center; /* text centrat pe mobil */
+    font-size: 0.6em;   /* font mai mic pe mobil */
+    padding: 5px 10px;
+   }
 }
 
 
@@ -356,6 +362,7 @@ filter: brightness(.9);
    }
     
 }
+
 
 
 
