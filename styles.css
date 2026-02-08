@@ -267,7 +267,13 @@ filter: brightness(.9);
     .hero-section .text h2{
         font-size: 35px;
     }
-
+ /*Footer general styles*/
+.footer {
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    background-color: blue;
+}
 }
 
 @media (max-width: 740px)
@@ -293,13 +299,6 @@ filter: brightness(.9);
 .contact-section .group{
     flex-direction: column;
 
-}
-    /*Footer general styles*/
-.footer {
-    font-size: 16px;
-    text-align: center;
-    padding: 10px;
-    background-color: blue;
 }
 }
 
@@ -362,6 +361,7 @@ filter: brightness(.9);
    }
     
 }
+
 
 
 
