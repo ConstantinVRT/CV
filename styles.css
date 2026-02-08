@@ -293,13 +293,13 @@ filter: brightness(.9);
     flex-direction: column;
 
 }
+}
 /*Text FOOTER PC */
     .footer {
         font-size: 16px;        /* font mai mare pe PC */
         text-align: center;     /* text centrat pe PC */
         padding: 20px 40px;     /* padding mai mare pe PC */
     }
-}
 
 
 @media (max-width: 600px)
@@ -361,6 +361,7 @@ filter: brightness(.9);
    
     
 }
+
 
 
 
